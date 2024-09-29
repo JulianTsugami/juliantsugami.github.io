@@ -1,4 +1,5 @@
 # How to deploy
+
 1. Clone this repository
 2. Run `docker-compose build`
 3. Run `docker-compose up -d`
