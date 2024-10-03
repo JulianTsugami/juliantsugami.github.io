@@ -1,6 +1,6 @@
 <h4 class="pico-color-indigo" id="experience">Experience</h4>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>Rakuten Group, Inc</b> - 2023/04 - Present</small>
+  <small class="pico-color-indigo"><b>Rakuten Group, Inc</b> - 2023/04 ~ Present</small>
   <div style="margin-bottom: 15px;">
     <small class="pico-color-indigo-950"><i>Associate Application Engineer,</i></small>
     <br />
@@ -26,12 +26,12 @@
   <br />
   <small class="pico-color-indigo-950">
     • Built a Jenkins pipeline for automating the build process of Gradle-based Java repositories,
-    improving CI/ CD efficiency.
+    improving CI/CD efficiency.
   </small>
   <br />
 </article>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>ITANDI Inc.</b> - 2021/08 - 2023/01</small>
+  <small class="pico-color-indigo"><b>ITANDI Inc.</b> - 2021/08 ~ 2023/01</small>
   <div style="margin-bottom: 10px;">
     <small class="pico-color-indigo-950"><i>Data Engineer (Part Time),</i></small>
     <br />
