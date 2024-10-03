@@ -60,3 +60,11 @@
     ensuring timely project completion.
   </small>
 </article>
+<article style="background-color: #f8f8f8;">
+  <small class="pico-color-indigo"><b>Chuo University</b> - 2019/04 ~ 2023/03</small>
+  <div>
+    <small class="pico-color-indigo-950"><i>Bachelor of Global Informatics</i></small>
+    <br />
+    <small class="pico-color-indigo-950"><i>Major in Information Technology and Law</i></small>
+  </div>
+</article>
