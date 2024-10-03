@@ -1,4 +1,4 @@
-<h4 class="pico-color-indigo" id="about">Skills</h4>
+<h4 class="pico-color-indigo" id="skills">Skills</h4>
 <small class="pico-color-indigo-950"
   ><b class="pico-color-indigo">Programming Languages: </b>Python, Ruby, Java, JavaScript, Bash</small
 >
