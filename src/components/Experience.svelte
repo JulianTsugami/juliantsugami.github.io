@@ -1,6 +1,6 @@
 <h4 class="pico-color-indigo" id="experience">Experience</h4>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>Sony Interactive Entertainment</b> - 2023/04 ~ Present</small>
+  <small class="pico-color-indigo"><b>Sony Interactive Entertainment</b> - 2025/01 ~ Present</small>
   <div style="margin-bottom: 15px;">
     <small class="pico-color-indigo-950"><i>Software Engineer I</i></small>
   </div>
@@ -10,7 +10,7 @@
   <br />
 </article>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>Rakuten</b> - 2023/04 ~ Present</small>
+  <small class="pico-color-indigo"><b>Rakuten</b> - 2023/04 ~ 2024/12</small>
   <div style="margin-bottom: 15px;">
     <small class="pico-color-indigo-950"><i>Associate Application Engineer</i></small>
   </div>
