@@ -1,16 +1,22 @@
 <h4 class="pico-color-indigo" id="experience">Experience</h4>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>Rakuten Group, Inc</b> - 2023/04 ~ Present</small>
+  <small class="pico-color-indigo"><b>Sony Interactive Entertainment</b> - 2023/04 ~ Present</small>
   <div style="margin-bottom: 15px;">
-    <small class="pico-color-indigo-950"><i>Associate Application Engineer,</i></small>
-    <br />
-    <small class="pico-color-indigo-950"><i>Travel Development Department,</i></small>
-    <br />
-    <small class="pico-color-indigo-950"><i>Travel Service Reliability Section</i></small>
+    <small class="pico-color-indigo-950"><i>Software Engineer I</i></small>
+  </div>
+  <small class="pico-color-indigo-950">
+    • Designed and implemented backend APIs for new features of the PlayStation Network (PSN) chat system using Java.</small
+  >
+  <br />
+</article>
+<article style="background-color: #f8f8f8;">
+  <small class="pico-color-indigo"><b>Rakuten</b> - 2023/04 ~ Present</small>
+  <div style="margin-bottom: 15px;">
+    <small class="pico-color-indigo-950"><i>Associate Application Engineer</i></small>
   </div>
   <small class="pico-color-indigo-950">
     • Led life cycle management projects, updating Java, Spring Framework, and other dependencies
-    for backend applications, and successfully migrated them to new Linux-based on-premise servers,
+    for Rakuten Travel's backend applications, and successfully migrated them to new Linux-based on-premise servers,
     ensuring system compatibility and stability.</small
   >
   <br />
@@ -31,13 +37,9 @@
   <br />
 </article>
 <article style="background-color: #f8f8f8;">
-  <small class="pico-color-indigo"><b>ITANDI Inc.</b> - 2021/08 ~ 2023/01</small>
+  <small class="pico-color-indigo"><b>ITANDI</b> - 2021/08 ~ 2023/01</small>
   <div style="margin-bottom: 10px;">
     <small class="pico-color-indigo-950"><i>Data Engineer (Part Time),</i></small>
-    <br />
-    <small class="pico-color-indigo-950"><i>Property Integration Team</i></small>
-    <br />
-    <small class="pico-color-indigo-950"><i>Travel Service Reliability Section</i></small>
   </div>
 
   <small class="pico-color-indigo-950">
